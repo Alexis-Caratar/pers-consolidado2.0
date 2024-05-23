@@ -1,0 +1,7 @@
+{
+  "servidor":"127.0.0.1",
+  "puerto": "1433",
+  "bd":"pers_encuestas",
+  "usuario":"Martin",
+  "clave":"1234567"
+}

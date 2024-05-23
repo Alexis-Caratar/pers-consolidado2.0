@@ -1,0 +1,7 @@
+{
+  "servidor":"127.0.0.1",
+  "puerto": "1433",
+  "bd":"pers_encuentas_cauca_2022_12",
+  "usuario":"Martin",
+  "clave":"12345678"
+}

@@ -1,0 +1,7 @@
+{
+  "servidor":"192.168.0.19",
+  "puerto": "1433",
+  "bd":"Ingenieria2",
+  "usuario":"persuser",
+  "clave":"1q2w3e4r"
+}
